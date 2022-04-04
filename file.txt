@@ -1,0 +1,1 @@
+youtube playlist: youtube-dl -o "%(playlist_index)s-%(title)s.%(ext)s" <playlist_link>
